@@ -1,0 +1,6 @@
+{
+  "name": "Task Viewer",
+  "description": "Unified notifications, messages, and calls with fluid liquid-style iOS Dynamic Island animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
