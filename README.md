@@ -144,8 +144,8 @@ copies of the Software.
 ## 📬 Contact
  
 - **Developer:** Mishuk Babu Shoukhin
-- **GitHub:** [github.com/mishukbabushoukhin](https://github.com/mishukbabushoukhin)
-- **Facebook:** [facebook.com/mishukbabushoukhin](https://facebook.com/mishukbabushoukhin)
+- **GitHub:** [github.com/mishukbabushoukhin](https://github.com/mishuk08)
+- **Facebook:** [facebook.com/mishukbabushoukhin](https://facebook.com/mishuk008)
 ---
  
 <p align="center">Made with ❤️ by <strong>Mishuk Babu Shoukhin</strong></p>
